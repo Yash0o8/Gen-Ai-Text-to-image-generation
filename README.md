@@ -246,20 +246,3 @@ Save gallery to DB
 Yash Pandey
 Aspiring Data Analyst & GenAI Developer
 Skilled in Python, Power BI, Web Development & AI pipelines
-
-If you want, next I can:
-
-
-🔒 Harden security
-
-
-🌍 Prepare deployment (Render / AWS / HuggingFace)
-
-
-🧠 Convert this into an interview explanation
-
-
-📄 Write a resume project description
-
-
-Just say the word.
